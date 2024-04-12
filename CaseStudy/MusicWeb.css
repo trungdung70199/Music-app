@@ -531,6 +531,16 @@ body{
     border-radius: 8px;
     cursor: pointer;
 }
+
+.dmca-badge{
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-top: 0.2px solid rgba($color: black, $alpha: 0.2); */
+    width: 80%;
+    margin: 0 auto;
+}
 /* screen 1400px */
 @media screen and (max-width: 1400px) {
     
